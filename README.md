@@ -1,4 +1,4 @@
-# ObjectRecognition-cnn
+# Object Recognition
 Proyek klasifikasi gambar menggunakan CNN pada dataset CIFAR-10.
 
 ## Deskripsi
